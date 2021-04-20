@@ -1,9 +1,9 @@
-* Maksim Karaseu 
-* vk.com/dassivemick - VK
+1. Maksim Karaseu 
+2. vk.com/dassivemick - VK
    @zdarovanaprimer - TELEGRAM 
    +375336619494 - mobile phone
-* Student of the second course in GRSU - Grodno state university. Studying in English on a mathinfo faculty, so i have a good level of english. By documents it is a B2+. Up ot learning new languages to find myself in some of IT directions. Nowadays wanna try IOS development. Very fast learning duo to student life way with infinite deadlines and labs. And at the same time learning by myself. At this time it's a course from Alex Skutarenko about the IOS development and Swift at particular.
-* from 1 - completely new to 5 - perfection 
+3. Student of the second course in GRSU - Grodno state university. Studying in English on a mathinfo faculty, so i have a good level of english. By documents it is a B2+. Up ot learning new languages to find myself in some of IT directions. Nowadays wanna try IOS development. Very fast learning duo to student life way with infinite deadlines and labs. And at the same time learning by myself. At this time it's a course from Alex Skutarenko about the IOS development and Swift at particular.
+4. from 1 - completely new to 5 - perfection 
 	c++ - 2
 	c# - 3
 	java - 2
@@ -11,7 +11,8 @@
 	html/css - 3
 	swift - 3
 
-*     func putChessFigure(figure: ChessFigure, chessBoard: inout [String: String]){ // puts figure instead of cell block
+5.
+        func putChessFigure(figure: ChessFigure, chessBoard: inout [String: String]){ // puts figure instead of cell block
                 switch figure {
             case (.King, let color, (let row, let line)):
                 color == .Black ? chessBoard.updateValue(blackKingCode, forKey: "\(row.rawValue)\(line.rawValue)") : chessBoard.updateValue(whiteKingCode, forKey: "\(row.rawValue)\(line.rawValue)")
@@ -65,13 +66,13 @@
         }
 
         createChess()
-* frontend(map creating with a syncfusion lybrary and webpage at particular) - https://github.com/PankiHoy/TwitterTrends-1
+6. frontend(map creating with a syncfusion lybrary and webpage at particular) - https://github.com/PankiHoy/TwitterTrends-1
 and lots of labs on frontend too
 
 labs on c#: working with collections, patterns, sorting algorithms, text/json parsing
 
-* currently a student of GRSU,finishing at 2023
+7. currently a student of GRSU,finishing at 2023
 
-* basically learning at a university in English, so practice is my everyday routine. like i said earlier, the level is about B2+.
+8. basically learning at a university in English, so practice is my everyday routine. like i said earlier, the level is about B2+.
 
 
