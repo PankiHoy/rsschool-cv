@@ -12,6 +12,7 @@
 	swift - 3
 
 5.
+
         func putChessFigure(figure: ChessFigure, chessBoard: inout [String: String]){ // puts figure instead of cell block
                 switch figure {
             case (.King, let color, (let row, let line)):
